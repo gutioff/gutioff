@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @gutioff
-- 👀 I’m interested in ... python,web develoopment, c++ , swift
+- 👋 Hi, I’m @gutioff 🇮🇹🍝
+- 👀 I’m interested in ... python,web development, c++ , swift
 - 🌱 I’m currently learning ...python, javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
