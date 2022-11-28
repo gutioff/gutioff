@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gutioff 🇮🇹🍝 15yo
+- 👋 Hi, I’m @gutioff 🇮🇹🍝 15yo 🖤🤍
 - 👀 I’m interested in ... python,web development, c++ , swift
 - 🌱 I’m currently learning ...python, javascript
 - 💞️ I’m looking to collaborate on ...
